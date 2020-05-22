@@ -164,6 +164,7 @@ The Executive Council is responsible for advertising and interviewing for the po
 ### Bylaws
 Any changes to these bylaws require a majority vote of the Executive Council. The Executive Council must re-approve these rules or an amended version every two years.
 
+
 ---
 
 Update log:
