@@ -8,6 +8,7 @@ license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
 license][cc-by-legal].
 
+
 You are free:
 
 * to **Share**---copy and redistribute the material in any medium or format
