@@ -31,15 +31,15 @@ Member Organisations have committed to supporting the maintenance and growth of 
 
 ## 4. Individual Voting Membership
 
-The Carpentries community includes many opportunities for involvement representing variable levels of commitment. All individuals participating in community activities are required to conform to the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Individuals may choose to commit to serving in one or more formal roles in the community, such as instructor, trainer, or maintainer, as defined by [The Carpentries Handbook](https://docs.carpentries.org/index.html).
+The Carpentries community includes many opportunities for involvement representing variable levels of commitment. All individuals participating in community activities are required to conform to the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Individuals may choose to commit to serving in one or more formal roles in the community, such as Instructor, Trainer, or Maintainer, as defined by [The Carpentries Handbook](https://docs.carpentries.org/index.html).
 
 ### Eligibility, Rights, and Termination for Voting Members
 Individuals who satisfy at least one of the following conditions are eligible for Voting Membership, as assessed in a yearly timeframe associated with the dates of the election (Dec 1 to Nov 30):
 
-1. Every individual who has completed instructor or trainer certification in the past year
-2. Every individual who has completed their instructor certification in the last two years and has taught at least one workshop of The Carpentries
-3. Every individual who is a certified instructor and has taught at least two workshops of The Carpentries in the past two years
-4. Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organisation in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community
+1. Every individual who has completed Instructor or Trainer certification in the past year
+2. Every individual who has completed their Instructor certification in the last two years and has taught at least one workshop of The Carpentries
+3. Every individual who is a certified Instructor and has taught at least two workshops of The Carpentries in the past two years
+4. Any individual who has participated on a committee, served as a Mentor or Maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organisation in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community
 
 The Executive Director is not eligible for Voting Membership.
 
