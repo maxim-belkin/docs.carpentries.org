@@ -70,5 +70,6 @@ Carpentries community members have written many blog posts and facilitated sever
 - May 14, [Discussion on using online sticky notes for feedback](https://swcarpentry.slack.com/archives/C03LE48AY/p1589424702251700?thread_ts=1589418680.251000&cid=C03LE48AY) in the #general Slack channel. 
 - May 25, [Discussion on using HackMD when teaching online workshops](https://swcarpentry.slack.com/archives/C08BVNU00/p1590393408057100)
 - May 28, [Discussion on using Zoom Breakout Rooms during online workshops](https://swcarpentry.slack.com/archives/C08BVNU00/p1590647888066700)
+- June 18, [Discussion on lessons learned from Carpentries online sessions in Stockholm](https://swcarpentry.slack.com/archives/C03LE48AY/p1592464967374500)
 
 
