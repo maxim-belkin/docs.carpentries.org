@@ -8,6 +8,24 @@ The Carpentries welcomes blog posts from our community members including worksho
 - Email community[at]carpentries[dot]org with your idea and one of the team will facilitate amplification of the idea in the community so others can reach out and collaborate with you (<mark>option</mark>)
 
 
+### Online workshop community blog post prompts
+
+1. How many learners were in the workshop and were they distributed locally (if locally, where?) or globally?
+2. What other important contextual information can you give about the workshop?
+    - When was it held, over what period of time? 
+    - Which lessons were taught?
+    - Were there asynchronous portions or was it all live
+       * If there was an asynchronous element to your workshop, did you create any resources that you can link to / share with the broader Carpentries community?
+    - How many instructors and helpers were there? What were the roles?
+3. What worked well for this workshop? Were there specific technologies or tools that you used that you would recommend? Please describe how the tools were used and what you would recommend in terms of their usage.
+4. What challenges came up during the workshop. These can be challenges in teaching online or general challenges (It is important to know what aspects of the workshop experience    remains the same regardless of online or in-person)
+5. In migrating the content of the workshop online, what did you learn? Were there portions of the curriculum that were easier to modify for hosting online?
+6. What do you wish you had known or considered before the workshop? What preparation would have been helpful in delivering the workshop?
+7. Which resources (e.g. blog posts, carpentries recommendations) did you use prior to the workshop
+    - Were they helpful?
+    - How would you adapt the resources post workshop.
+8. Would you be willing to share your experience briefly in a Themed Discussion session around running online workshops in the future? If yes, we would afford you a 5-15 minute slot to share your experiences. How much time would you need?
+
 ### Sharing ready-to-publish drafts
 
 Our blog content is formatted in Markdown, and rendered as html thanks to Jekyll. You can submit your blog post draft in one of three ways
