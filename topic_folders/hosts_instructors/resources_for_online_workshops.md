@@ -23,7 +23,7 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 
 #### Resources by Community
 
-Carpentries community members have written many blog posts and facilitated several webinars on this topic. Review these [online workshops blog post prompts](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html#online-workshop-community-blog-post-prompts) if you are looking to write about your teaching experiences. 
+Carpentries community members have written many blog posts and facilitated several webinars on this topic. 
 
 ##### Blog posts
 
@@ -42,7 +42,26 @@ Carpentries community members have written many blog posts and facilitated sever
 - Jane Koh on 15 June, [Outlining a Successful Virtual Software Carpentry Workshop on Zoom](https://carpentries.org/blog/2020/06/virtual-software-carpentry-workshop/)
 - Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan and Tim Dennis on 16 Jun, [Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020](https://carpentries.org/blog/2020/06/ucla-online-workshop/)
  - Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
+ 
+##### Online workshop community blog post prompts
+ 
+Review these if you are looking to write about your teaching experiences: 
 
+1. How many learners were in the workshop and were they distributed locally (if locally, where?) or globally?
+2. What other important contextual information can you give about the workshop?
+    - When was it held, over what period of time? 
+    - Which lessons were taught?
+    - Were there asynchronous portions or was it all live
+       * If there was an asynchronous element to your workshop, did you create any resources that you can link to / share with the broader Carpentries community?
+    - How many instructors and helpers were there? What were the roles?
+3. What worked well for this workshop? Were there specific technologies or tools that you used that you would recommend? Please describe how the tools were used and what you would recommend in terms of their usage.
+4. What challenges came up during the workshop. These can be challenges in teaching online or general challenges (It is important to know what aspects of the workshop experience    remains the same regardless of online or in-person)
+5. In migrating the content of the workshop online, what did you learn? Were there portions of the curriculum that were easier to modify for hosting online?
+6. What do you wish you had known or considered before the workshop? What preparation would have been helpful in delivering the workshop?
+7. Which resources (e.g. blog posts, carpentries recommendations) did you use prior to the workshop
+    - Were they helpful?
+    - How would you adapt the resources post workshop.
+8. Would you be willing to share your experience briefly in a Themed Discussion session around running online workshops in the future? If yes, we would afford you a 5-15 minute slot to share your experiences. How much time would you need?
 
 ##### Webinars and Community Calls 
 
