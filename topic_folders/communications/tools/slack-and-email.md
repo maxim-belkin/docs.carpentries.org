@@ -9,7 +9,7 @@ There are many ways in which you can join our conversations:
 Below are descriptions of selected channels found on TopicBox (as discussed in this [blog post](https://carpentries.org/blog/2020/04/channels-to-join-topicbox/)):
 
 - [**Instructor Trainers**](https://carpentries.topicbox.com/groups/trainers) - A list for topics related to the community of Trainers that prepare new instructors in teaching Data, Software and Library Carpentries lessons. 
-- [**Discuss**](https://carpentries.topicbox.com/groups/discuss) - A group for general discussion of Carpentry teaching practices and community activities and concerns. 
+- [**Discuss**](https://carpentries.topicbox.com/groups/discuss) - A list for general discussion of Carpentry teaching practices and community activities and concerns. 
 - [**Discussion Hosts**](https://carpentries.topicbox.com/groups/discussion-hosts) - The community of instructors that hosts community discussion sessions. 
 - [**Instructors**](https://carpentries.topicbox.com/groups/instructors) - An admin-only list where opportunities for badged instructors to teach are announced. 
 - [**Maintainers**](https://carpentries.topicbox.com/groups/maintainers) - A list for topics related to the maintenance of Carpentry lessons. 
