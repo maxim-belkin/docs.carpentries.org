@@ -14,7 +14,7 @@ Below are descriptions of selected channels found on TopicBox (as discussed in t
 - [**Instructors**](https://carpentries.topicbox.com/groups/instructors) - An admin-only list where opportunities for badged instructors to teach are announced. 
 - [**Maintainers**](https://carpentries.topicbox.com/groups/maintainers) - A list for topics related to the maintenance of Carpentry lessons. 
 
-**local-*** - A list for discussing The Carpentries in our local and regional communities
+**local-*** - A set of city / region-specific lists discussing The Carpentries in our local and regional communities 
 
 - [**Australia and New Zealand**](https://carpentries.topicbox.com/groups/local-aunz)
 - [**Africa**](https://carpentries.topicbox.com/groups/local-africa)
