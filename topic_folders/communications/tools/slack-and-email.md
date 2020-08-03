@@ -11,7 +11,7 @@ Below are descriptions of selected channels found on TopicBox (as discussed in t
 - [**Instructor Trainers**](https://carpentries.topicbox.com/groups/trainers) - A list for topics related to the community of Trainers that prepare new instructors in teaching Data, Software and Library Carpentries lessons. 
 - [**Discuss**](https://carpentries.topicbox.com/groups/discuss) - A list for general discussion of Carpentry teaching practices and community activities and concerns. 
 - [**Discussion Hosts**](https://carpentries.topicbox.com/groups/discussion-hosts) - The community of instructors that hosts community discussion sessions. 
-- [**Instructors**](https://carpentries.topicbox.com/groups/instructors) - An admin-only list where opportunities for badged instructors to teach are announced. 
+- [**Instructors**](https://carpentries.topicbox.com/groups/instructors) - An admininistrator approved list where opportunities for badged instructors to teach are announced. 
 - [**Maintainers**](https://carpentries.topicbox.com/groups/maintainers) - A list for topics related to the maintenance of Carpentry lessons. 
 
 **local-*** - A set of city / region-specific lists discussing The Carpentries in our local and regional communities 
